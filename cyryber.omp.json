@@ -68,7 +68,7 @@
       "filler": ". ",
       "segments": [
         {
-          "foreground": "#21e4fd",
+          "foreground": "#3a75b0",
           "style": "diamond",
           "template": "[<#ffffff>\ue738</> {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }}] ",
           "type": "java"
