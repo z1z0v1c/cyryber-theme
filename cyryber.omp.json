@@ -81,6 +81,12 @@
           "type": "dotnet"
         },
         {
+          "foreground": "#45bf17",
+          "style": "powerline",
+          "template": "[<#ffffff>\ue718</> {{ .Full }}] ",
+          "type": "node"
+        },
+        {
           "foreground": "#fd5353",
           "properties": {
             "style": "dallas",
