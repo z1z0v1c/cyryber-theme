@@ -87,6 +87,12 @@
           "type": "node"
         },
         {
+          "foreground": "#b02a2a",
+          "style": "powerline",
+          "template": "[<#ffffff>\ue71e</> {{ .Full }}] ",
+          "type": "npm"
+        },
+        {
           "foreground": "#fd5353",
           "properties": {
             "style": "dallas",
